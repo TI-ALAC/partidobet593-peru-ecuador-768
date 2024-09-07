@@ -25,9 +25,6 @@ img {
     overflow: hidden;
 }
 
-/* Estilos para pantallas de hasta 768px */
-@media only screen and (max-width: 768px) {
-
     #title1,
     #title2,
     #title3 {
@@ -53,4 +50,3 @@ img {
         left: 83.5%;
         top: 72%;
     }
-}
